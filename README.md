@@ -1,4 +1,4 @@
-# <img src="https://github.com/Ameenamaan/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Ameen](https://github.com/Ameenamaan) Welcome To Github Profile
+# <img src="https://github.com/Ameenamaan" width="30px"> Hi I'am [Ameen](https://github.com/Ameenamaan) Welcome To Github Profile
 
 * 📚 Student
 
