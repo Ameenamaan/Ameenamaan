@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.instagram.com/lonely_boy_1_0"><img alt="Instagram" src="https://img.shields.io/badge/Mrk_YT_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/Ameen_Ameen_12"><img alt="Telegram" src="https://img.shields.io/badge/ᵐʳ𝐔𝐧𝐤𝐧𝐨𝐰𝐧🇮🇳༒-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://github.com/Ameenamaan/new-repo-motock"><img alt="Github" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&logo=youtube&logoColor=red"/></a>
+<a href="https://github.com/Ameenamaan"><img alt="Github" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
